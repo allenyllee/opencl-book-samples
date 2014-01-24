@@ -1,0 +1,32 @@
+﻿Build started 2013/3/28 下午 04:18:35.
+     1>Project "D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\SimpleBufferSubBuffer.vcxproj" on node 5 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\Debug\".
+       InitializeBuildStatus:
+         Creating "SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule D:/Project/opencl-book-samples/src/Chapter_7/SimpleBufferSubBuffer/CMakeLists.txt
+         CMake does not need to re-run because D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.0/include" /I"D:/Project/opencl-book-samples/khronos" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"SimpleBufferSubBuffer.dir\Debug\\" /Fd"D:/Project/opencl-book-samples/build_vs2010/src/Chapter_7/SimpleBufferSubBuffer/Debug/SimpleBufferSubBuffer.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\src\Chapter_7\SimpleBufferSubBuffer\simple.cpp  /Zm1000 
+         simple.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.embed.manifest.res" SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\Debug\SimpleBufferSubBuffer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\lib\Win32\OpenCL.lib" /MANIFEST /ManifestFile:"SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:/Project/opencl-book-samples/build_vs2010/src/Chapter_7/SimpleBufferSubBuffer/Debug/SimpleBufferSubBuffer.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Project/opencl-book-samples/build_vs2010/src/Chapter_7/SimpleBufferSubBuffer/Debug/SimpleBufferSubBuffer.lib" /MACHINE:X86 SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.embed.manifest.res
+         SimpleBufferSubBuffer.dir\Debug\simple.obj  /machine:X86 /debug 
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.embed.manifest" /manifest SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.embed.manifest.res" SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\Debug\SimpleBufferSubBuffer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\lib\Win32\OpenCL.lib" /MANIFEST /ManifestFile:"SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:/Project/opencl-book-samples/build_vs2010/src/Chapter_7/SimpleBufferSubBuffer/Debug/SimpleBufferSubBuffer.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Project/opencl-book-samples/build_vs2010/src/Chapter_7/SimpleBufferSubBuffer/Debug/SimpleBufferSubBuffer.lib" /MACHINE:X86 SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.exe.embed.manifest.res
+         SimpleBufferSubBuffer.dir\Debug\simple.obj  /machine:X86 /debug 
+         SimpleBufferSubBuffer.vcxproj -> D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\Debug\SimpleBufferSubBuffer.exe
+       FinalizeBuildStatus:
+         Deleting file "SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.unsuccessfulbuild".
+         Touching "SimpleBufferSubBuffer.dir\Debug\SimpleBufferSubBuffer.lastbuildstate".
+     1>Done Building Project "D:\Project\opencl-book-samples\build_vs2010\src\Chapter_7\SimpleBufferSubBuffer\SimpleBufferSubBuffer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.74

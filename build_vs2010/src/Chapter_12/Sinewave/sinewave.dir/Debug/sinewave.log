@@ -1,0 +1,18 @@
+﻿Build started 2013/3/29 下午 01:23:56.
+     1>Project "D:\Project\opencl-book-samples\build_vs2010\src\Chapter_12\Sinewave\sinewave.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "sinewave.dir\Debug\sinewave.unsuccessfulbuild".
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.0/include" /I"D:/Project/opencl-book-samples/khronos" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sinewave.dir\Debug\\" /Fd"D:/Project/opencl-book-samples/build_vs2010/src/Chapter_12/Sinewave/Debug/sinewave.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\src\Chapter_12\Sinewave\sinewave.cpp  /Zm1000 
+         sinewave.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(353): error C2381: 'exit' : redefinition; __declspec(noreturn) differs
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\GL/glut.h(146) : see declaration of 'exit'
+     1>D:\Project\opencl-book-samples\khronos\CL/cl.hpp(1140): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>..\..\..\..\src\Chapter_12\Sinewave\sinewave.cpp(41): fatal error C1083: Cannot open include file: 'bmpLoader.hpp': No such file or directory
+     1>Done Building Project "D:\Project\opencl-book-samples\build_vs2010\src\Chapter_12\Sinewave\sinewave.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.11

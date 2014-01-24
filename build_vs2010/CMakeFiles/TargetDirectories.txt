@@ -1,0 +1,11 @@
+D:/Project/opencl-book-samples/build_vs2010/CMakeFiles/ALL_BUILD.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_11/D3Dinterop/CMakeFiles/D3Dinterop.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_6/HelloBinaryWorld/CMakeFiles/HelloBinaryWorld.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_2/HelloWorld/CMakeFiles/HelloWorld.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_3/OpenCLConvolution/CMakeFiles/OpenCLConvolutionChap3.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_3/OpenCLInfo/CMakeFiles/OpenCLInfo.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_7/SimpleBufferSubBuffer/CMakeFiles/SimpleBufferSubBuffer.dir
+D:/Project/opencl-book-samples/build_vs2010/CMakeFiles/ZERO_CHECK.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_14/histogram/CMakeFiles/histogram.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_12/Sinewave/CMakeFiles/sinewave.dir
+D:/Project/opencl-book-samples/build_vs2010/src/Chapter_12/VectorAdd/CMakeFiles/vecadd.dir

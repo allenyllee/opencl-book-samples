@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/Project/opencl-book-samples/src/Chapter_11/D3Dinterop/CMakeLists.txt
+D:/Project/opencl-book-samples/cmake/FindDirectX.cmake
+D:/Project/opencl-book-samples/src/Chapter_11/D3Dinterop/D3Dinterop.cl
+D:/Project/opencl-book-samples/src/Chapter_11/D3Dinterop/D3Dinterop.fx
